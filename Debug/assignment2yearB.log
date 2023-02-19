@@ -1,0 +1,9 @@
+﻿  Facebook.cpp
+  FanPage.cpp
+C:\Users\Netanel\source\repos\assignment2yearB\assignment2yearB\FanPage.cpp(168,34): warning C4018: '>': signed/unsigned mismatch
+  InputFunctions.cpp
+  User.cpp
+C:\Users\Netanel\source\repos\assignment2yearB\assignment2yearB\User.cpp(248,34): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  assignment2yearB.vcxproj -> C:\Users\Netanel\source\repos\assignment2yearB\Debug\assignment2yearB.exe
